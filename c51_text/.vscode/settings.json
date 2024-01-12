@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "stc89xx.h": "c",
+    "reg51.h": "c"
+  },
+  "C_Cpp.configurationWarnings": "Enabled",
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "C_Cpp.errorSquiggles": "Disabled"
+}

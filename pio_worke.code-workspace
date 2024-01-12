@@ -1,0 +1,54 @@
+{
+  "folders": [
+    {
+      "path": "esp8266_text2"
+    },
+    {
+      "name": "stm32_text_1",
+      "path": "stm32_text_1"
+    },
+    {
+      "name": "stm32_car_yes",
+      "path": "stm32_car_yes"
+    },
+    {
+      "name": "stm32_uart_1_text_1",
+      "path": "stm32_uart_1_text_1"
+    },
+    {
+      "name": "stm32_uart_2_text_1",
+      "path": "stm32_uart_2_text_1"
+    },
+    {
+      "name": "My_spider2",
+      "path": "My_spider2"
+    },
+    {
+      "name": "stm32_car_vl53l0x_text_a",
+      "path": "stm32_car_vl53l0x_text_a"
+    },
+    {
+      "name": "c51_text",
+      "path": "c51_text"
+    },
+    {
+      "name": "esp32_text1",
+      "path": "esp32_text1"
+    },
+    {
+      "name": "esp8266_text_car",
+      "path": "esp8266_text_car"
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "vl53l0x_api.h": "c",
+      "stm32f4xx_it.h": "c",
+      "8052.h": "c",
+      "delay.h": "c",
+      "stc89xx.h": "c",
+      "unity_internals.h": "c",
+      "stm32f0xx.h": "c"
+    }
+  }
+}

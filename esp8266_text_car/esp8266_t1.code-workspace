@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "esp8266_text2",
+      "path": "."
+    },
+    {
+      "name": "esp32_text1",
+      "path": "..\\esp32_text1"
+    }
+  ],
+  "settings": {}
+}

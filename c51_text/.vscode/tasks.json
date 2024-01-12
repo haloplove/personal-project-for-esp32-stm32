@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "PlatformIO",
+      "task": "Build (STC89C52RC)",
+      "problemMatcher": ["$platformio"],
+      "group": "build",
+      "label": "PlatformIO: Build (STC89C52RC)"
+    }
+  ]
+}
